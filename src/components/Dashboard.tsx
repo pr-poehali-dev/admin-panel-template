@@ -4,32 +4,32 @@ import Icon from '@/components/ui/icon'
 
 const stats = [
   {
-    title: 'Общие продажи',
-    value: '₽2,847,230',
+    title: 'Установленные котлы',
+    value: '2,847',
     change: '+12.5%',
     changeType: 'positive',
-    icon: 'TrendingUp'
+    icon: 'Thermometer'
   },
   {
-    title: 'Активные пользователи',
-    value: '12,847',
+    title: 'Активные котлы',
+    value: '2,634',
     change: '+8.2%',
     changeType: 'positive',
-    icon: 'Users'
+    icon: 'Zap'
   },
   {
-    title: 'Конверсия',
-    value: '4.23%',
-    change: '-2.1%',
-    changeType: 'negative',
+    title: 'Эффективность',
+    value: '92.5%',
+    change: '+2.1%',
+    changeType: 'positive',
     icon: 'Target'
   },
   {
-    title: 'Средний чек',
-    value: '₽8,340',
+    title: 'Обслуживание в месяц',
+    value: '247',
     change: '+5.7%',
     changeType: 'positive',
-    icon: 'CreditCard'
+    icon: 'Wrench'
   }
 ]
 
